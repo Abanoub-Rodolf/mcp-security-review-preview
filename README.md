@@ -33,6 +33,10 @@ Those are part of the [full $29 kit](https://rodolf.gumroad.com/l/mcp-security-r
 
 Built by [Abanoub Rodolf Boctor](https://thynkq.com/about) at [ThynkQ](https://thynkq.com). The automated scanner is [mcp-scan](https://www.npmjs.com/package/mcp-scan), maintained by the same author.
 
+## Related free project
+
+Want a small MCP server to inspect with the preflight? Use the free [MCP Server Starter Demo](https://github.com/Abanoub-Rodolf/mcp-server-starter-demo). It is a separate two-tool TypeScript teaching server with no file, network, subprocess, or secret access.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
