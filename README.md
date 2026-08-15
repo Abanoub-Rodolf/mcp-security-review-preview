@@ -37,6 +37,8 @@ Built by [Abanoub Rodolf Boctor](https://thynkq.com/about) at [ThynkQ](https://t
 
 Want a small MCP server to inspect with the preflight? Use the free [MCP Server Starter Demo](https://github.com/Abanoub-Rodolf/mcp-server-starter-demo). It is a separate two-tool TypeScript teaching server with no file, network, subprocess, or secret access.
 
+Also free: the [MCP Security Evidence Redactor](https://github.com/Abanoub-Rodolf/mcp-security-evidence-redactor) turns scanner JSON output into safe severity-count summaries for CI logs.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
